@@ -1,12 +1,15 @@
-<!DOCTYPE html>
+<!DOCTYPEE html>
 <html>
-<head>
-	<title>Mi pagina con estilo</title>
-</head>
+
+<head><center>RECICLAR, REUTILIZAR, REDUCIR</center></head>
 <body>
+<img src="C:\Users\usuario\Downloads\ablaolivia.jpg">
 
-<h1 style="color:blue;text-align:center">Este es un encabezado que esta centrado y de color azul</h1>
+	
+We bshould recycle more to reduce waste.
+	
+We should not waste water in the community of Rodeo, Durango.
 
-<p style="color:green;">Este es un parrafo en color verde</p>
+Should we plant more trees to ligth climate change in Rodeo?
 </body>
 </html>
