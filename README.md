@@ -3,7 +3,8 @@
 
 <head><center>RECICLAR, REUTILIZAR, REDUCIR</center></head>
 <body>
-<img src="C:\Users\usuario\Downloads\ablaolivia.jpg">
+<img src="![Uploading image.png…]()">
+
 
 	
 We bshould recycle more to reduce waste.
