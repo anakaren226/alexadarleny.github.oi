@@ -2,7 +2,7 @@
 <html>
 <head><center>RECICLAR, REUTILIZAR, REDUCIR</center></head>
 <img src="![image](https://github.com/user-attachments/assets/52cd8c60-e47e-439d-8d9f-c601301336ee)">
-
+</head>
 	
  <body>
 	
